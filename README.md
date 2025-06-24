@@ -10,4 +10,4 @@ I'm **Aaron**, and I'm interested in the world of **data science** and the futur
 
 ### 🧠 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,MySQL,r,matlab,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,MySQL,r,matlab&theme=light)](https://skillicons.dev)
