@@ -8,6 +8,6 @@ I'm **Aaron**, and I'm interested in the world of **data science** and the futur
 
 ---
 
-### 🧠 My Skills
+### 🧠 Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,mysql,r,matlab)](https://skillicons.dev)
