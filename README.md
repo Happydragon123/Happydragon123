@@ -5,4 +5,5 @@ I'm **Aaron**, and I'm interested in the world of **data science** and the futur
 - 🌱 I’m a rising junior at the **University of Houston**
 - 💼 Currently interning as a **Data and Analytics Intern** at [Ally](https://www.ally.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaron-low-804194271/)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
