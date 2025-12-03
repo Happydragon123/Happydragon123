@@ -3,7 +3,7 @@
 I'm **Aaron**, and I'm interested in the world of **data science** and the future of **data-driven technology**.
 
 - 🌱 I’m a junior at the **[University of Houston](https://uh.edu/)**
-- 💼 Currently interning as a **Data and Analytics Intern** at [Ally](https://www.ally.com/)
+- 💼 Previously interned as a **Data and Analytics Intern** at [Ally](https://www.ally.com/) (Text Mining with Large Language Models)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaron-low-804194271/)
 
 ---
