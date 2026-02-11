@@ -4,6 +4,7 @@ I'm **Aaron**, and I'm interested in the world of **data science** and the futur
 
 - 🌱 I’m a junior at the **[University of Houston](https://uh.edu/)**
 - 💼 Previously interned as a **Data and Analytics Intern** at [Ally](https://www.ally.com/) (Text Mining with Large Language Models)
+- 💼 Incoming Summer 2026 **TDP Data Science Engineer Intern** at [AT&T](https://www.att.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaron-low-804194271/)
 
 ---
