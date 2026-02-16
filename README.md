@@ -19,6 +19,6 @@ I'm **Aaron**, and I'm interested in the world of **data science** and the futur
 
 - Data Science and Machine Learning
 - Statistics for the Sciences
-- Data Science 1 
+- Data Science 1 & 2
 - Database Systems  
 
